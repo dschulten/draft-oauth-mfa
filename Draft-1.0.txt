@@ -92,7 +92,7 @@ Internet-Draft    OAuth 2.0 Multi-Factor Authentication     January 2017
 
    Transaction confirmation can be used to increase the level of
    assurance prior to issuing tokens for highly privileged operations,
-   such as a bank withdrawl.  For example, an end-user (resource owner)
+   such as a bank withdrawal.  For example, an end-user (resource owner)
    can grant an application (client) access to her account at a
    brokerage firm (resource server).  The application is authorized to
    obtain real-time stock quotes as well as place orders, and is issued
